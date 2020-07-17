@@ -1,0 +1,28 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6849
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 8. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    Nobody expects the Spanish inquisition!
+    Correct output:
+    nobody expects the spanish inquisition
+
+    Your code output:
+
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 2, in <module>
+        print(message.lower().replace(""))
+    TypeError: replace() takes at least 2 arguments (1 given)
+  time: Fri, 17 Jul 2020 12:54:22 UTC
+record: -1
