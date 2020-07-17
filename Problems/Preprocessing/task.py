@@ -1,2 +1,6 @@
 message = input()
-print(message.lower().replace(""))
+w = message.lower().replace(",", "")
+x = w.replace(".", "")
+y = x.replace("!", "")
+z = y.replace("?", "")
+print(z)
