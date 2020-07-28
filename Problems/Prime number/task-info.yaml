@@ -1,0 +1,11 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5931
+status: Unchecked
+feedback:
+  message: Failed to get check result from JetBrains Academy
+  time: Mon, 27 Jul 2020 15:33:21 UTC
+record: -1
